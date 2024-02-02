@@ -1,0 +1,10 @@
+dist
+node_modules
+.history
+README.md
+/node_modules
+.local
+.output.js
+**/*.svg
+**/*.sh
+/public
